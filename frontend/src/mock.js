@@ -33,7 +33,7 @@ export const menuItems = [
     price: 199,
     rating: 4.5,
     isVeg: true,
-    image: "https://images.unsplash.com/photo-1625219405894-6d45f7d47e5f?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1550951957-c4e960099edc?w=800&q=80",
     description: "Crunchy vegetable spring rolls with sweet chili sauce"
   },
   {
@@ -63,7 +63,7 @@ export const menuItems = [
     price: 279,
     rating: 4.4,
     isVeg: false,
-    image: "https://images.unsplash.com/photo-1580959375944-1ab5ba586c8b?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1619040929118-1c90f4c6ee87?w=800&q=80",
     description: "Crispy breaded fish with tartar sauce"
   },
   // Main Course
