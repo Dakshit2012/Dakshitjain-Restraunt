@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dakshitjain-Restraunt/static/css/main.b2f5a29d.css",
+    "main.js": "/Dakshitjain-Restraunt/static/js/main.94f2f793.js",
+    "index.html": "/Dakshitjain-Restraunt/index.html",
+    "main.b2f5a29d.css.map": "/Dakshitjain-Restraunt/static/css/main.b2f5a29d.css.map",
+    "main.94f2f793.js.map": "/Dakshitjain-Restraunt/static/js/main.94f2f793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f5a29d.css",
+    "static/js/main.94f2f793.js"
+  ]
+}
